@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,YACE,UAAW,CACX,iBAAiB,CACjB,sBACF,CAEA,aACE,gBAAiB,CACjB,iBACF","file":"main.974c75e6.chunk.css","sourcesContent":[".mainconfig{\n  color: Grey;\n  text-align:center;\n  font-family: Comic Sans;\n}\n\n.tableconfig{\n  margin-left: auto;\n  margin-right: auto;\n}\n"]}
