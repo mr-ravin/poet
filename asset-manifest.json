@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.974c75e6.chunk.css",
-    "main.js": "/static/js/main.233df4a8.chunk.js",
-    "main.js.map": "/static/js/main.233df4a8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.74113647.js",
-    "runtime-main.js.map": "/static/js/runtime-main.74113647.js.map",
-    "static/js/2.94447f5f.chunk.js": "/static/js/2.94447f5f.chunk.js",
-    "static/js/2.94447f5f.chunk.js.map": "/static/js/2.94447f5f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.974c75e6.chunk.css.map": "/static/css/main.974c75e6.chunk.css.map",
-    "static/js/2.94447f5f.chunk.js.LICENSE.txt": "/static/js/2.94447f5f.chunk.js.LICENSE.txt"
+    "main.css": "/poet/static/css/main.974c75e6.chunk.css",
+    "main.js": "/poet/static/js/main.233df4a8.chunk.js",
+    "main.js.map": "/poet/static/js/main.233df4a8.chunk.js.map",
+    "runtime-main.js": "/poet/static/js/runtime-main.f70b9634.js",
+    "runtime-main.js.map": "/poet/static/js/runtime-main.f70b9634.js.map",
+    "static/js/2.94447f5f.chunk.js": "/poet/static/js/2.94447f5f.chunk.js",
+    "static/js/2.94447f5f.chunk.js.map": "/poet/static/js/2.94447f5f.chunk.js.map",
+    "index.html": "/poet/index.html",
+    "static/css/main.974c75e6.chunk.css.map": "/poet/static/css/main.974c75e6.chunk.css.map",
+    "static/js/2.94447f5f.chunk.js.LICENSE.txt": "/poet/static/js/2.94447f5f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.74113647.js",
+    "static/js/runtime-main.f70b9634.js",
     "static/js/2.94447f5f.chunk.js",
     "static/css/main.974c75e6.chunk.css",
     "static/js/main.233df4a8.chunk.js"
