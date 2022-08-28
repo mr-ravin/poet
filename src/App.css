@@ -19,7 +19,8 @@ table {
 }
 
 h1{
-font: italic 1.6rem Brush Script MT, bold, sans-serif;
+font: italic 1.6rem;
+font-family: 'Oooh Baby', cursive;
 color: black;
 }
 
