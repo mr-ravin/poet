@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/poet/static/css/main.974c75e6.chunk.css",
-    "main.js": "/poet/static/js/main.233df4a8.chunk.js",
-    "main.js.map": "/poet/static/js/main.233df4a8.chunk.js.map",
-    "runtime-main.js": "/poet/static/js/runtime-main.f70b9634.js",
-    "runtime-main.js.map": "/poet/static/js/runtime-main.f70b9634.js.map",
-    "static/js/2.94447f5f.chunk.js": "/poet/static/js/2.94447f5f.chunk.js",
-    "static/js/2.94447f5f.chunk.js.map": "/poet/static/js/2.94447f5f.chunk.js.map",
+    "main.css": "/poet/static/css/main.bf27ad18.css",
+    "main.js": "/poet/static/js/main.3c81ff70.js",
+    "static/js/787.0c6e2e39.chunk.js": "/poet/static/js/787.0c6e2e39.chunk.js",
+    "static/media/poem_1.png": "/poet/static/media/poem_1.50d0c37e80fa765b55dc.png",
+    "static/media/poem_3.png": "/poet/static/media/poem_3.64492f4d67a2d73ae38a.png",
+    "static/media/poem_4.png": "/poet/static/media/poem_4.ad47861c9e5fb41b08e5.png",
+    "static/media/poem_2.png": "/poet/static/media/poem_2.a0c6eeaa8fa46c524972.png",
+    "static/media/logo.svg": "/poet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/poet/index.html",
-    "static/css/main.974c75e6.chunk.css.map": "/poet/static/css/main.974c75e6.chunk.css.map",
-    "static/js/2.94447f5f.chunk.js.LICENSE.txt": "/poet/static/js/2.94447f5f.chunk.js.LICENSE.txt"
+    "main.bf27ad18.css.map": "/poet/static/css/main.bf27ad18.css.map",
+    "main.3c81ff70.js.map": "/poet/static/js/main.3c81ff70.js.map",
+    "787.0c6e2e39.chunk.js.map": "/poet/static/js/787.0c6e2e39.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f70b9634.js",
-    "static/js/2.94447f5f.chunk.js",
-    "static/css/main.974c75e6.chunk.css",
-    "static/js/main.233df4a8.chunk.js"
+    "static/css/main.bf27ad18.css",
+    "static/js/main.3c81ff70.js"
   ]
 }
