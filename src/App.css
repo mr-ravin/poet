@@ -1,0 +1,16 @@
+.middle {
+  position: absolute;
+  left: 20%;
+  right: 21%;
+  color: black;
+}
+
+h1{
+  font: italic 1.6rem;
+  font-family: 'Oooh Baby', cursive;
+  color: black;
+  }
+
+body{
+  background-color: #DAE2B6;
+}

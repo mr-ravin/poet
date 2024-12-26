@@ -1,6 +1,6 @@
 {
-  "short_name": "Poet's Life",
-  "name": "Poetry by Ravin Kumar",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
