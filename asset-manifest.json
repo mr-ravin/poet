@@ -1,19 +1,15 @@
 {
   "files": {
-    "main.css": "/poet/static/css/main.68b9a2e2.css",
-    "main.js": "/poet/static/js/main.03e20a1e.js",
+    "main.css": "/poet/static/css/main.77faaca2.css",
+    "main.js": "/poet/static/js/main.c7e4f408.js",
     "static/js/488.2e9dbffa.chunk.js": "/poet/static/js/488.2e9dbffa.chunk.js",
-    "static/media/poem_1.png": "/poet/static/media/poem_1.50d0c37e80fa765b55dc.png",
-    "static/media/poem_3.png": "/poet/static/media/poem_3.64492f4d67a2d73ae38a.png",
-    "static/media/poem_4.png": "/poet/static/media/poem_4.ad47861c9e5fb41b08e5.png",
-    "static/media/poem_2.png": "/poet/static/media/poem_2.a0c6eeaa8fa46c524972.png",
     "index.html": "/poet/index.html",
-    "main.68b9a2e2.css.map": "/poet/static/css/main.68b9a2e2.css.map",
-    "main.03e20a1e.js.map": "/poet/static/js/main.03e20a1e.js.map",
+    "main.77faaca2.css.map": "/poet/static/css/main.77faaca2.css.map",
+    "main.c7e4f408.js.map": "/poet/static/js/main.c7e4f408.js.map",
     "488.2e9dbffa.chunk.js.map": "/poet/static/js/488.2e9dbffa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68b9a2e2.css",
-    "static/js/main.03e20a1e.js"
+    "static/css/main.77faaca2.css",
+    "static/js/main.c7e4f408.js"
   ]
 }
